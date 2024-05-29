@@ -1,2 +1,3 @@
 # Edge-Dection
-Fun Edge Detection Work
+
+Fun edge detection work I did following a guide off github. This program utilizes a computer's webcam.
